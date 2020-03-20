@@ -4,6 +4,7 @@ drivers = 30
 passengers = 90
 cars_not_driven = cars - drivers
 cars_driven = drivers
+#In the below line we can use any of the variables either "drivers" or "cars_driven".
 carpool_capacity = drivers * space_in_a_car
 average_passengers_per_car = passengers / drivers
 remaining_cars = cars - drivers
