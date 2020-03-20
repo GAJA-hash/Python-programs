@@ -31,5 +31,4 @@ print ('Total animals', cow + goat)
 
 i = 4985
 j = 8379
-print('The modulus of 8379 and 4985 is', i % j,
- "\n And difference is", j - i )
+print('The modulus of 8379 and 4985 is', i % j, "\n And difference is", j - i )
