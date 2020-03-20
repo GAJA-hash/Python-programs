@@ -16,7 +16,7 @@ print("Is it true that 3 + 2 > 5 - 7\n",3 + 2 > 5 - 7)
 print(3%4*2)
 
 print("What is 3 + 2?", 3 + 2)
-print("What is 5 - 7?", 5 + 7)
+print("What is 5 - 7?", 5 - 7)
 print("Oh, that's why those were False and True!")
 print("How about some more?")
 print("Is it greater?", 5>-2)
