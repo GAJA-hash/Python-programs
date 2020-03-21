@@ -38,7 +38,17 @@ print (w + e)
 
 #study drill
 print("\n\n\n")
-print("study drill")
+print("study drill \n\n")
 testing = True
 a = "{}"                #not working --->1 = "{}"
 print(a.format(testing))#not working------>print(1.format(testing)
+
+print('\n\n or \n\n')
+
+#Do the above code to print "True" in a single line
+print("To print True")
+print("{}" .format('True'))
+
+print('\n\n e.g. \n\n')
+
+print("We can do this way {}." .format('too'))
