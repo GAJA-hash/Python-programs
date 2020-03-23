@@ -5,7 +5,7 @@ print(formatter.format("1", 2, 3, 4)) #Can/Can't use " "
 #Here four strings are printed but same as above
 print(formatter.format("one", "two", "threee", "four"))
 #Here True or False condition is printed
-print(formatter.format(True, "False", False, True)) #Can/Can't use " "
+print(formatter.format(True, "False", False, "True")) #Can/Can't use " "
 #
 print( formatter.format(formatter, formatter, formatter, formatter, ))
 
