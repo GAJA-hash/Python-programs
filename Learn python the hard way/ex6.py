@@ -45,10 +45,11 @@ print(a.format(testing))#not working------>print(1.format(testing)
 
 print('\n\n or \n\n')
 
-#Do the above code to print "True" in a single line
-print("To print True")
-print("{}" .format('True'))
+#Assigning values in the respective order
 
 print('\n\n e.g. \n\n')
+print("We {} this way {}." .format('can do', 'too'))
 
-print("We can do this way {}." .format('too'))
+#more values called using { } and .format
+print("\n\nTo print True, True, False")
+print("{} {} {} " .format(True, True, "False"))#Since True/False is a keyword we can either or not use ""
