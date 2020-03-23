@@ -1,11 +1,13 @@
 #Here's some new strange stuff, remember type it exactly.
 
 days = "Mon Tue Wed Thu Fri Sat Sun"
+#One way to print in next line.
 months = "Jan \n Feb \n Mar \n Apr \n May \n Jun \n Jul \n Aug"
 
 print("Here are the days:" , days)
 print("Here are the months:", months)
 
+#Another way to print in multiple lines.
 print ("""
 There's something going on here.
 With the three double-quotes.
